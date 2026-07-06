@@ -1,0 +1,22 @@
+Item No,Component,Specification,Quantity,Purpose,Estimated Unit Cost (USD),Estimated Total (USD)
+1,ESP32 DevKit V1,ESP32-WROOM-32 Development Board,1,Main Controller,8.00,8.00
+2,SG90 Micro Servo,9g Servo Motor,3,Globe and Ring Rotation,3.00,6.00
+3,SSD1306 OLED Display,128x64 I2C 0.96 inch,1,Display Satellite Information,4.00,4.00
+4,18650 Li-ion Battery,3.7V Rechargeable,1,Power Supply,5.00,5.00
+5,18650 Battery Holder,Single Cell,1,Battery Mount,1.00,1.00
+6,TP4056 Charging Module,USB-C or Micro USB Version,1,Battery Charging,1.50,1.50
+7,5V Boost Converter,3.7V to 5V,1,Servo Power Supply,2.50,2.50
+8,100µF Electrolytic Capacitor,16V or Higher,2,Servo Power Stabilization,0.20,0.40
+9,0.1µF Ceramic Capacitor,50V,2,Noise Filtering,0.10,0.20
+10,220Ω Resistor,1/4W,2,General Protection,0.05,0.10
+11,Jumper Wires,Male-Female Assorted,1 Set,Connections,3.00,3.00
+12,Breadboard,830 Tie Points,1,Prototype Assembly,5.00,5.00
+13,Ball Bearings,For Globe Rotation,2,Smooth Mechanical Movement,3.00,6.00
+14,3D Printed Globe,30 cm Diameter,1,Earth Model,15.00,15.00
+15,3D Printed Ring,32 cm Diameter,1,Latitude Ring,10.00,10.00
+16,M3 Screws and Nuts,Assorted Kit,1 Set,Assembly,5.00,5.00
+17,Fishing Line or Braided Thread,Strong Nylon,1 Roll,Future Mechanical Use,2.00,2.00
+18,USB Cable,USB-A to USB-C/Micro USB,1,Programming ESP32,2.00,2.00
+19,Power Switch,SPST Slide Switch,1,Power Control,1.00,1.00
+20,Project Enclosure (Optional),3D Printed/Base Plate,1,Mount Electronics,8.00,8.00
+,,,,"Estimated Total",,90.70

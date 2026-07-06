@@ -1,0 +1,19 @@
+Category,Component,ESP32 Pin,Power,Ground,Notes
+General,Globe Servo (Longitude),GPIO 12,External 5V,Common GND,Rotates the globe
+General,Ring Servo (Latitude),GPIO 13,External 5V,Common GND,Rotates the latitude ring
+General,Ring Support Servo,GPIO 14,External 5V,Common GND,Supports latitude ring rotation
+General,SSD1306 OLED SDA,GPIO 21,3.3V,GND,I2C Data
+General,SSD1306 OLED SCL,GPIO 22,3.3V,GND,I2C Clock
+General,Li-ion Battery,VIN (through regulator if required),Battery +,Battery -,Main power source
+General,ESP32 DevKit V1,USB/VIN,5V,GND,Main controller
+
+Servo Connections,Servo,Signal Pin,Power,Ground,Function
+Servo Connections,Servo 1,GPIO 12,External 5V,Common GND,Globe rotation (Longitude)
+Servo Connections,Servo 2,GPIO 13,External 5V,Common GND,Ring rotation (Latitude)
+Servo Connections,Servo 3,GPIO 14,External 5V,Common GND,Supports latitude ring rotation
+
+OLED Connections,OLED Pin,ESP32 Pin,Power,Ground,Description
+OLED Connections,VCC,3.3V,3.3V,GND,OLED Power
+OLED Connections,GND,GND,N/A,GND,Ground
+OLED Connections,SDA,GPIO 21,3.3V,GND,I2C Data
+OLED Connections,SCL,GPIO 22,3.3V,GND,I2C Clock
