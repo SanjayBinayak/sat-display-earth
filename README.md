@@ -8,4 +8,13 @@ I was inspired to make this after making my satellite tracker website.
 <img width="1920" height="1080" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/ae6bffcf-72d1-4e9b-81bd-0f222af5a687" />
 <img width="1920" height="1080" alt="Screenshot (445)" src="https://github.com/user-attachments/assets/57e2dd53-7059-4ce1-ba17-03fd3a4b16a7" />
 
+# servo connections
+Device   	ESP32 Pin
+
+Earth Servo	         GPIO 18
+Left Ring Servo	     GPIO 19
+Right Ring Servo	     GPIO 25 (instead of GPIO 21)
+OLED SDA	             GPIO 21
+OLED SCL	             GPIO 22
+
 I want to check it's working at home by error correct method but i do not have a 3D printer nither i found a rechable 3D printing service.
