@@ -6,6 +6,8 @@ I was inspired to make this after making my satellite tracker website.
 # See my project
 <img width="1920" height="1080" alt="Screenshot (433)" src="https://github.com/user-attachments/assets/7777e4d7-1617-4016-b1e6-1d0ea3b2e31b" />
 <img width="1920" height="1080" alt="Screenshot (437)" src="https://github.com/user-attachments/assets/ae6bffcf-72d1-4e9b-81bd-0f222af5a687" />
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/e8065541-1176-488a-a55e-d42e0ed0fd25" />
+
 
 # Connections
 | Component | ESP32 Pin | Power | Ground | Notes |
